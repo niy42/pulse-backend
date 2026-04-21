@@ -83,9 +83,10 @@ async def send_message(chat_id: str, data: SendMessageRequest):
         raise HTTPException(
             status_code=403,
             detail={
+                "title": "Limit Reached",
                 "message": "Upgrade to Pro to continue",
                 "sub_message": "Your tokens will renew after 24 hours",
-                "action": "upgrade_to_pro",
+                "action": "Upgrade to Pro",
             },
         )
 
