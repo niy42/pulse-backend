@@ -209,3 +209,21 @@ async def run_job(chat_id: str, url: str):
         )
 
         job["status"] = "done"
+
+
+@router.delete("/chats/{chat_id}")
+async def delete_chat(chat_id: str):
+    if chat_id in jobs:
+        del jobs[chat_id]
+        return {"status": "deleted"}
+    raise HTTPException(404, "Not found")
+
+
+@router.patch("/chats/{chat_id}")
+async def rename_chat(chat_id: str, title: str):
+    job = jobs.get(chat_id)
+    if not job:
+        raise HTTPException(404, "Not found")
+
+    job["title"] = title
+    return job
