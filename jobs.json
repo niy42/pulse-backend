@@ -109,9 +109,295 @@
   "c69e1229-0112-4eed-818b-c4171fb8df54": {
     "id": "c69e1229-0112-4eed-818b-c4171fb8df54",
     "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:18:44.189096",
+    "status": "done"
+  },
+  "f2016380-4146-4241-9ca4-c69f7f80b7af": {
+    "id": "f2016380-4146-4241-9ca4-c69f7f80b7af",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:27:31.613766",
+    "status": "done"
+  },
+  "2db92e16-b760-4dca-8988-7c1c1af295b6": {
+    "id": "2db92e16-b760-4dca-8988-7c1c1af295b6",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:27:39.970936",
+    "status": "done"
+  },
+  "8de9a820-b461-4734-90ac-5dddd3a77c78": {
+    "id": "8de9a820-b461-4734-90ac-5dddd3a77c78",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
     "title": "New Chat",
     "messages": [],
-    "created_at": "2026-04-22T01:18:44.189096",
+    "created_at": "2026-04-22T01:27:47.432017",
+    "status": "idle"
+  },
+  "66c41755-411f-43cb-98c9-ac76a8d9aba0": {
+    "id": "66c41755-411f-43cb-98c9-ac76a8d9aba0",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:27:54.932367",
+    "status": "done"
+  },
+  "c3d950f4-3c6b-40e9-8507-b0530f691564": {
+    "id": "c3d950f4-3c6b-40e9-8507-b0530f691564",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:32:23.435496",
+    "status": "done"
+  },
+  "5c59fbb2-b9e4-46d4-9332-ff644b0180db": {
+    "id": "5c59fbb2-b9e4-46d4-9332-ff644b0180db",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:32:29.693332",
+    "status": "done"
+  },
+  "e5df3065-7959-4930-aa72-b44322951ee7": {
+    "id": "e5df3065-7959-4930-aa72-b44322951ee7",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T01:32:45.790949",
+    "status": "idle"
+  },
+  "33cb1d87-dd07-489d-8042-8fcc8d64178d": {
+    "id": "33cb1d87-dd07-489d-8042-8fcc8d64178d",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:47:54.107042",
+    "status": "idle"
+  },
+  "e7e94b32-8c5e-4452-bba1-f36c4044790a": {
+    "id": "e7e94b32-8c5e-4452-bba1-f36c4044790a",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:47:54.325818",
+    "status": "idle"
+  },
+  "5d3c48b0-b268-47af-bda9-6fbd7c4adf90": {
+    "id": "5d3c48b0-b268-47af-bda9-6fbd7c4adf90",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:48:04.875565",
+    "status": "idle"
+  },
+  "537331b6-29a5-485d-aacb-246100c6f6f5": {
+    "id": "537331b6-29a5-485d-aacb-246100c6f6f5",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:48:17.198363",
+    "status": "idle"
+  },
+  "465ca7dc-90e2-45b7-8f51-35e3a1780154": {
+    "id": "465ca7dc-90e2-45b7-8f51-35e3a1780154",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:48:33.514061",
+    "status": "idle"
+  },
+  "5ea44c39-ec61-464b-9181-34ffd2fb5ac5": {
+    "id": "5ea44c39-ec61-464b-9181-34ffd2fb5ac5",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:54:34.055963",
+    "status": "idle"
+  },
+  "83c733bb-0f37-4975-989f-1085971386f9": {
+    "id": "83c733bb-0f37-4975-989f-1085971386f9",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:54:34.673713",
+    "status": "idle"
+  },
+  "624c5b7f-27e2-46ba-abc7-e34b5c387058": {
+    "id": "624c5b7f-27e2-46ba-abc7-e34b5c387058",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:54:34.925316",
+    "status": "idle"
+  },
+  "923ace6d-ca39-4013-88fa-09688ab31282": {
+    "id": "923ace6d-ca39-4013-88fa-09688ab31282",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T08:56:51.679053",
+    "status": "idle"
+  },
+  "90a9a7d0-e6a0-4bd7-a84a-891c8c8b657e": {
+    "id": "90a9a7d0-e6a0-4bd7-a84a-891c8c8b657e",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T10:25:26.364779",
     "status": "idle"
   }
 }

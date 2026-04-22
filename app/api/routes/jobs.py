@@ -71,11 +71,11 @@ async def create_chat(data: CreateChatRequest):
 # -------------------------
 @router.post("/chats/{chat_id}/messages")
 async def send_message(chat_id: str, data: SendMessageRequest):
-    print("jobs before:", jobs)
+    # print("jobs before:", jobs)
     job = jobs.get(chat_id)
 
     if not job:
-        print(f"Missing chat_id: {chat_id}. Available: {list(jobs.keys())}")
+        # print(f"Missing chat_id: {chat_id}. Available: {list(jobs.keys())}")
         raise HTTPException(status_code=404, detail="Chat not found or expired")
 
     user = get_or_create_user(job["user_id"])
