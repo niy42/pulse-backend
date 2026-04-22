@@ -81,7 +81,7 @@ async def send_message(chat_id: str, data: SendMessageRequest):
     user = get_or_create_user(job["user_id"])
 
     if user["plan"] == "free" and user["requests_used"] >= 3:
-        raise HTTPException(
+         raise HTTPException(
             status_code=403,
             detail={
                 "title": "Limit Reached",
@@ -90,7 +90,7 @@ async def send_message(chat_id: str, data: SendMessageRequest):
                 "action": "Upgrade to Pro",
             },
         )
-
+        
     user["requests_used"] += 1
 
     job["messages"].append(

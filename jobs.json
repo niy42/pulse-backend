@@ -1,0 +1,117 @@
+{
+  "88278e2e-8f06-4e86-b94f-b30aae4ab9e9": {
+    "id": "88278e2e-8f06-4e86-b94f-b30aae4ab9e9",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:18:07.040239",
+    "status": "done"
+  },
+  "6532a262-f849-4e42-886e-1a3e94390709": {
+    "id": "6532a262-f849-4e42-886e-1a3e94390709",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:18:12.119830",
+    "status": "done"
+  },
+  "9cd6c6c2-b546-426d-aa6a-3977f489db60": {
+    "id": "9cd6c6c2-b546-426d-aa6a-3977f489db60",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "youtube.com/watch?v=l2wyuYRN2K4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "youtube.com/watch?v=l2wyuYRN2K4"
+      },
+      {
+        "role": "assistant",
+        "content": {
+          "hooks": [
+            "No hooks generated"
+          ],
+          "insights": [
+            "No insights generated"
+          ],
+          "contrarian": [
+            "No contrarian angle available"
+          ],
+          "summary": [
+            "Could not extract content from this video."
+          ],
+          "quotes": [
+            "No quotes available"
+          ]
+        }
+      }
+    ],
+    "created_at": "2026-04-22T01:18:22.926138",
+    "status": "done"
+  },
+  "596e9d31-1abf-46cb-a76f-3bc9d4d75df5": {
+    "id": "596e9d31-1abf-46cb-a76f-3bc9d4d75df5",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T01:18:34.365010",
+    "status": "idle"
+  },
+  "c69e1229-0112-4eed-818b-c4171fb8df54": {
+    "id": "c69e1229-0112-4eed-818b-c4171fb8df54",
+    "user_id": "c080b972-2876-47aa-973f-69843e10b7c6",
+    "title": "New Chat",
+    "messages": [],
+    "created_at": "2026-04-22T01:18:44.189096",
+    "status": "idle"
+  }
+}
